@@ -12,6 +12,9 @@ git clone https://github.com/jbakchr/bold-dk-web-scraper.git
 
 ### Install requirements
 Install requirements:
+```python
+pip install -r requirements.txt
+```
 
 ### Run web scraper
 Run the web scraper - remember to provide (for now) just one command line argument
